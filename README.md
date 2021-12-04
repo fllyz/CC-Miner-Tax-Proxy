@@ -8,5 +8,5 @@
 
 [MacOs](https://github.com/CaoCaoMiner/CC-Miner-Tax-Proxy/linux/README.md)
 
-## 日你妈,"我的忧伤"
-你是煞笔
+## 日你妈
+我的忧伤,你是煞笔
