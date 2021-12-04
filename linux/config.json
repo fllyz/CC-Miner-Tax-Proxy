@@ -1,0 +1,9 @@
+{
+  "poolAddress": "eth.f2pool.com",
+  "poolPort": 6688,
+  "tcpPort": 6688,
+  "tlsPort": 12345,
+  "user": "你的钱包地址",
+  "worker": "矿工地址",
+  "taxPercent": 0.35
+}
